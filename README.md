@@ -1,6 +1,5 @@
 # **Repositório de Recursos para Programadores e TI**  
-[![Contribua](https://img.shields.io/badge/Contribua%20aqui-Brightgreen)](./CONTRIBUTING.md)  
-🌟 Um repositório colaborativo para compartilhar e organizar conteúdos de alta qualidade sobre TI e programação.  
+🌟 Um repositório colaborativo para compartilhar e organizar <span style="color:#008000">conteúdos de alta qualidade</span> sobre TI e programação.  
 
 ---
 
